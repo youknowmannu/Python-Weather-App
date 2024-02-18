@@ -1,14 +1,14 @@
 <p align="center">
-  <h1>Weather Information Retrieval System</h1>
+  <h1>Weather App</h1>
 </p>
 
 
-![Screenshot (14)](https://github.com/youknowmannu/Python-Weather-App/assets/130030050/290413da-97f1-4f92-9908-fe3ba97044c6)
+![weather png](https://github.com/youknowmannu/Python-Weather-App/assets/130030050/5c92ef98-6c24-43fe-8f16-20f8639a5606)
 
 
 
 
-Welcome to our Weather Information Retrieval System! Stay informed about the current weather conditions with this simple Python program.
+Welcome to our Python Weather App! Stay informed about the current weather conditions with this simple Python program.
 
 **Features 🌦️**
 - Get Weather Information: Retrieve current weather information for a specific city.
