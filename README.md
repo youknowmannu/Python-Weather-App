@@ -3,7 +3,8 @@
 </p>
 
 
-![weather png](https://github.com/youknowmannu/Python-Weather-App/assets/130030050/5c92ef98-6c24-43fe-8f16-20f8639a5606)
+![weather png](https://github.com/youknowmannu/Python-Weather-App/assets/130030050/c5dd032e-124d-4f45-9c18-0b370b8b1799)
+
 
 
 
